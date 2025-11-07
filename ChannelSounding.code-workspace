@@ -4,6 +4,9 @@
             "path": "..\\ChannelSounding\\bt_cs_soc_initiator"
         },
         {
+            "path": "..\\ChannelSounding\\bt_cs_ncp"
+        },
+        {
             "path": "..\\ChannelSounding\\bt_cs_soc_reflector"
         }
     ],
